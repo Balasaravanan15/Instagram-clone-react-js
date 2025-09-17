@@ -1,0 +1,148 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "postImage": "https://picsum.photos/500/500?random=1",
+      "caption": "Enjoying the sunny beach today!",
+      "likes": 120,
+      "comments": [
+        {
+          "id": "c1",
+          "username": "jane_smith",
+          "text": "Wow, looks amazing!"
+        },
+        {
+          "id": "c2",
+          "username": "alex_23",
+          "text": "Great shot!"
+        }
+      ],
+      "postedAt": "2025-09-14T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "username": "emma_watson",
+      "profileImage": "https://randomuser.me/api/portraits/women/1.jpg",
+      "postImage": "https://picsum.photos/500/500?random=2",
+      "caption": "Just cooked a delicious meal! 🍝😋",
+      "likes": 85,
+      "comments": [
+        {
+          "id": "c1",
+          "username": "foodie_fan",
+          "text": "Recipe please!"
+        }
+      ],
+      "postedAt": "2025-09-13T14:45:00Z"
+    },
+    {
+      "id": "3",
+      "username": "travel_guru",
+      "profileImage": "https://randomuser.me/api/portraits/men/5.jpg",
+      "postImage": "https://picsum.photos/500/500?random=3",
+      "caption": "Sunset views from the mountain peak 🌄",
+      "likes": 200,
+      "comments": [
+        {
+          "id": "c1",
+          "username": "nature_lover",
+          "text": "Absolutely breathtaking!"
+        },
+        {
+          "id": "c2",
+          "username": "wanderlust_99",
+          "text": "Where is this place? I must visit!"
+        }
+      ],
+      "postedAt": "2025-09-12T18:20:00Z"
+    }
+  ],
+  "profile": {
+    "id": "1",
+    "username": [
+      "BalasaravananC"
+    ],
+    "profileImage": "/assets/BalasaravananC.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": "2",
+      "username": "emma_watson",
+      "profileImage": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "id": "3",
+      "username": "travel_guru",
+      "profileImage": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": "4",
+      "username": "fitness_freak",
+      "profileImage": "https://randomuser.me/api/portraits/men/10.jpg"
+    },
+    {
+      "id": "5",
+      "username": "food_explorer",
+      "profileImage": "https://randomuser.me/api/portraits/women/15.jpg"
+    },
+    {
+      "id": "6",
+      "username": "artsy_soul",
+      "profileImage": "https://randomuser.me/api/portraits/women/25.jpg"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "postImage": "https://picsum.photos/500/500?random=10"
+    },
+    {
+      "id": "2",
+      "username": "emma_watson",
+      "profileImage": "https://randomuser.me/api/portraits/women/1.jpg",
+      "postImage": "https://picsum.photos/500/500?random=23"
+    },
+    {
+      "id": "3",
+      "username": "travel_guru",
+      "profileImage": "https://randomuser.me/api/portraits/men/5.jpg",
+      "postImage": "https://picsum.photos/500/500?random=99"
+    }
+  ],
+  "followers": [
+    {
+      "id": "7",
+      "username": "tech_whiz",
+      "profileImage": "https://randomuser.me/api/portraits/men/20.jpg"
+    },
+    {
+      "id": "8",
+      "username": "nature_lover",
+      "profileImage": "https://randomuser.me/api/portraits/women/30.jpg"
+    },
+    {
+      "id": "9",
+      "username": "movie_buff",
+      "profileImage": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    {
+      "id": "10",
+      "username": "style_icon",
+      "profileImage": "https://randomuser.me/api/portraits/women/40.jpg"
+    },
+    {
+      "id": "11",
+      "username": "gaming_pro",
+      "profileImage": "https://randomuser.me/api/portraits/men/45.jpg"
+    }
+  ]
+}
